@@ -60,7 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 #
 content:
-  - title: fab fa-mortarboard Education
+  - icon: fab fa-graduation-cap
+    title: fab fa-graduation-cap Education
     layout: list
     content:
       - layout: top-middle
