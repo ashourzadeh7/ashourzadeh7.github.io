@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 #
 content:
-  - title: Education
+  - title: fab fa-MortarBoard Education
     layout: list
     content:
       - layout: top-middle
@@ -81,7 +81,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification  
         
-  - title:  Honors and Awards
+  - title:  fab fa-Trophy Honors and Awards
     layout: list
     content:
       - layout: top-middle
@@ -98,7 +98,7 @@ content:
         sub_title:  Isfahan University of Technology (IUT)
         caption: 2014
         
-  - title:  Publications and Patents
+  - title:  fab fa-Bookmark Publications and Patents
     layout: list
     content:
       - layout: text
@@ -109,7 +109,7 @@ content:
          K. Barati, “Joft-o-Joor”, Persian Patent No. 95/0262409/3, Isuued May. 1, 2016.
         
               
-  - title: Projects # Title for the section
+  - title: Professional Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
