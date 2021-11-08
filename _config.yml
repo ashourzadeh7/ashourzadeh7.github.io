@@ -66,11 +66,20 @@ content:
       - layout: left
         title: Allameh Tabataba’i University (ATU), Tehran
         sub_title:  M.Sc. in Computer Science
-        caption: Spring 2020 to Present
+        caption: Spring 2021 to Present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          
+      - layout: left
+        title: Isfahan University of Technology (IUT), Isfahan
+        sub_title:  B.Sc. in Electrical Engineering - Communications
+        caption: Fall 2013 to 2018
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification    
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
