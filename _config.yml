@@ -53,25 +53,6 @@ linkedin_username: kamalbarati
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-\documentclass[11pt]{article}
-\usepackage[T1]{fontenc}
-\usepackage{minted}
-
-\begin{document}
-  \section{The YAML Language}
-  \begin{minted}[
-    gobble=4,
-    frame=single,
-    linenos
-  ]{yaml}
-  	\item 5+ Years of Professional Experience as a Research and Development Engineer.
-	\item 6+ Years of Developing Experience; Proficient in Matlab, Python, C++, Verilog.
-	\item M.Sc in Computer Science.
-	%%\item Management skills by professional experiences as a research and development manager.
-	\item  Broad Knowledge, Fast Learner and Critical Thinker.
-  \end{minted}
-\end{document}
-
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
 #    - Tables
