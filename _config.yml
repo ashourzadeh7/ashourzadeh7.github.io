@@ -67,20 +67,48 @@ content:
         title: Allameh Tabataba’i University (ATU), Tehran
         sub_title:  M.Sc. in Computer Science
         caption: Spring 2021 to Present
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
           
       - layout: top-middle
         title: Isfahan University of Technology (IUT), Isfahan
         sub_title:  B.Sc. in Electrical Engineering - Communications
         caption: Fall 2013 to 2018
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification    
-          
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification  
+        
+  - title:  Honors and Awards
+    layout: list
+    content:
+      - layout: top-middle
+        title: 3rd Rank of National Khwarizmi Youth Award
+        sub_title: Mathematics, Game Theory
+        caption: Nov. 2012
+        
+      - layout: top-middle
+        title: Member of the National Elite Foundation of Iran
+        caption: Since 2013
+        
+      - layout: top-middle
+        title: Brilliant Talent Scholarship Award
+        sub_title:  Isfahan University of Technology (IUT)
+        caption: 2014
+        
+  - title:  Publications and Patents
+    layout: list
+    content:
+      - layout: text
+        content: | 
+         K. Barati, S. Shahsavari “Game Assembling on a Network,” A Mathematics Article for the National Khwarizmi Youth Festival, 2012, Tehran, Iran.
+      - layout: text
+        content: | 
+         K. Barati, “Joft-o-Joor”, Persian Patent No. 95/0262409/3, Isuued May. 1, 2016.
+        
+              
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
