@@ -63,7 +63,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: list
+      - layout: text
         title: Allameh Tabataba’i University (ATU), Tehran
         sub_title:  M.Sc. in Computer Science
         caption: Spring 2021 to Present
@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
-      - layout: list
+      - layout: text
         title: Isfahan University of Technology (IUT), Isfahan
         sub_title:  B.Sc. in Electrical Engineering - Communications
         caption: Fall 2013 to 2018
