@@ -61,9 +61,9 @@ about_content: | # this will include new lines to allow paragraphs
 #
 content:
   - title: Education
-    layout: top-middle
+    layout: list
     content:
-      - layout: text
+      - layout: top-middle
         title: Allameh Tabataba’i University (ATU), Tehran
         sub_title:  M.Sc. in Computer Science
         caption: Spring 2021 to Present
