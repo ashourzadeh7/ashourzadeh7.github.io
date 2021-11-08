@@ -83,7 +83,7 @@ content:
         #  Description of qualification  
         
   - title: Honors and Awards
-    icon: fab fa-brophy
+    #icon: fab fa-brophy
     layout: list
     content:
       - layout: top-middle
@@ -101,7 +101,7 @@ content:
         caption: 2014
         
   - title: Publications and Patents
-    icon: fab fa-bookmark
+    #icon: fab fa-bookmark
     layout: list
     content:
       - layout: text
