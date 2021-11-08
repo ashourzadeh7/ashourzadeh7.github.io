@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 #
 content:
-  - title: fab fa-MortarBoard Education
+  - title: fab fa-mortarboard Education
     layout: list
     content:
       - layout: top-middle
@@ -81,7 +81,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification  
         
-  - title:  fab fa-Trophy Honors and Awards
+  - title:  fab fa-brophy Honors and Awards
     layout: list
     content:
       - layout: top-middle
@@ -99,7 +99,7 @@ content:
         caption: 2014
         
   - title: Publications and Patents
-    icon: fab fa-Bookmark
+    icon: fab fa-bookmark
     layout: list
     content:
       - layout: text
