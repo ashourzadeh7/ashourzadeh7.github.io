@@ -60,8 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 #
 content:
-  - icon: fab fa-graduation-cap
-    title: fab fa-graduation-cap Education
+  - #icon: fab fa-graduation-cap
+    title: Education
     layout: list
     content:
       - layout: top-middle
@@ -82,7 +82,8 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification  
         
-  - title:  fab fa-brophy Honors and Awards
+  - title: Honors and Awards
+    icon: fab fa-brophy
     layout: list
     content:
       - layout: top-middle
