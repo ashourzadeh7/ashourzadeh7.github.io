@@ -98,7 +98,8 @@ content:
         sub_title:  Isfahan University of Technology (IUT)
         caption: 2014
         
-  - title:  fab fa-Bookmark Publications and Patents
+  - title: Publications and Patents
+    icon: fab fa-Bookmark
     layout: list
     content:
       - layout: text
