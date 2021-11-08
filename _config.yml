@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
 #
 content:
   - title: Education
-    layout: list
+    layout: top-middle
     content:
       - layout: text
         title: Allameh Tabataba’i University (ATU), Tehran
@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
-      - layout: text
+      - layout: top-middle
         title: Isfahan University of Technology (IUT), Isfahan
         sub_title:  B.Sc. in Electrical Engineering - Communications
         caption: Fall 2013 to 2018
@@ -84,7 +84,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
