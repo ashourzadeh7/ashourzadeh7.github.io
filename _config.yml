@@ -63,7 +63,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: center
+      - layout: left
         title: Allameh Tabataba’i University (ATU), Tehran
         sub_title:  M.Sc. in Computer Science
         caption: Spring 2020 to Present
