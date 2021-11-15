@@ -165,7 +165,7 @@ content:
         
       - layout: top-middle
         title: Applications
-        sub_title: Machine Learning, Qt, MATLAB, SIMATIC, Adobe (Photoshop, Premiere), LaTeX, GIT
+        sub_title: Machine Learning, Qt, MATLAB, LaTeX, GIT, SIMATIC, Adobe (Photoshop, Premiere)
         
       - layout: top-middle
         title: Language 
