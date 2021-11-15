@@ -119,7 +119,7 @@ content:
         sub_title: Moein Zist Aria Co., Isfahan
         caption: Jan. 2016 - Sep.2020
         layout: text
-        content: |
+        description: |
             - Design and Develop a Water Desalination System based on Thermoelectric Modules
             - PLC Programming and Process Automation of Zero Liquid Discharge (ZLD) Project Ordered by the Marun Petrochemical Complex.
       
@@ -147,19 +147,7 @@ content:
             - Paper Reviewer of Iran MathematicsTournament of Towns (Fall 2013 - 2020)
             - Scientific Consultant of Training Camp for Selected Students of the Iran Mathematics Tournament of Towns (Fall 2015 - 2018).
 
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+   
   - title: Skills
     layout: list
     content:
