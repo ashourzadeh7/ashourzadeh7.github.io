@@ -82,7 +82,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification  
         
-  - title: **Honors and Awards**
+  - title: Honors and Awards
     #icon: fab fa-brophy
     layout: list
     content:
@@ -100,7 +100,7 @@ content:
         sub_title:  Isfahan University of Technology (IUT)
         caption: 2014
         
-  - title: **Publications and Patents**
+  - title: Publications and Patents
     #icon: fab fa-bookmark
     layout: list
     content:
@@ -112,7 +112,7 @@ content:
          K. Barati, “Joft-o-Joor”, Persian Patent No. 95/0262409/3, Isuued May. 1, 2016.
         
               
-  - title: **Professional Experiences** # Title for the section
+  - title: Professional Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -164,7 +164,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: **Skills**
+  - title: Skills
     layout: list
     content:
       - layout: top-middle
