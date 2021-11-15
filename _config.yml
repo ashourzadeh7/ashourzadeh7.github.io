@@ -127,7 +127,7 @@ content:
         title:  Teaching Assistant
         sub_title: Isfahan University of Technology
         caption: Spring 2017 - Fall 2018
-        quote:
+        quote: |
             - Computer Networks_Spring 2017, Dr. Naghmeh S. Moayedian        
             - Fundamentals of Computer Programming_Fall 2018, Dr. Behzad Nazari 
             - Principles of Communication Systems_Fall 2018, Dr. Ehsan Yazdian 
@@ -137,12 +137,12 @@ content:
         title:   Mathematics Teacher
         sub_title: Isfahan Mathematics House
         caption: Sep. 2013 - Present
-        quote: Tutoring Mathematics Workshops for Students and Teachers (Under the Supervision of Dr. Ali Rejali)
-        description: |
+        quote: |
+            - Tutoring Mathematics Workshops for Students and Teachers (Under the Supervision of Dr. Ali Rejali)
             - Mentor of Design Thinking Workshops Based on Stanford Method and POLY UP Workshops (under the Supervision of Dr. Yahya Tabesh)
-        quote: Jury Member of Iran Mathematics A-Lympiad (Fall 2014 - 2020)
-        quote: Paper Reviewer of Iran MathematicsTournament of Towns (Fall 2013 - 2020)
-        quote: Scientific Consultant of Training Camp for Selected Students of the Iran Mathematics Tournament of Towns (Fall 2015 - 2018).
+            - Jury Member of Iran Mathematics A-Lympiad (Fall 2014 - 2020)
+            - Paper Reviewer of Iran MathematicsTournament of Towns (Fall 2013 - 2020)
+            - Scientific Consultant of Training Camp for Selected Students of the Iran Mathematics Tournament of Towns (Fall 2015 - 2018).
 
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
