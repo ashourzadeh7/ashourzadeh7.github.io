@@ -118,7 +118,7 @@ content:
         title: Electrical Engineer 
         sub_title: Moein Zist Aria Co., Isfahan
         caption: Jan. 2016 - Sep.2020
-        quote: >
+        description: |
             - Design and Develop a Water Desalination System based on Thermoelectric Modules
             - PLC Programming and Process Automation of Zero Liquid Discharge (ZLD) Project Ordered by the Marun Petrochemical Complex.
       
@@ -138,7 +138,7 @@ content:
         title:   Mathematics Teacher
         sub_title: Isfahan Mathematics House
         caption: Sep. 2013 - Present
-        quote: |
+        description: |
             - Tutoring Mathematics Workshops for Students and Teachers (Under the Supervision of Dr. Ali Rejali)
             - Mentor of Design Thinking Workshops Based on Stanford Method and POLY UP Workshops (under the Supervision of Dr. Yahya Tabesh)
             - Jury Member of Iran Mathematics A-Lympiad (Fall 2014 - 2020)
