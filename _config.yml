@@ -101,7 +101,6 @@ content:
         caption: 2014
         
   - title: Publications and Patents
-    #icon: fab fa-bookmark
     layout: list
     content:
       - layout: text
@@ -121,25 +120,21 @@ content:
         caption: Sep. 2020 - May 2021
         
       - layout: top-middle
-        title: Electrical Engineer, 
+        title: Electrical Engineer 
         sub_title: Moein Zist Aria Co., Isfahan
         caption: Jan. 2016 - Sep.2020
-        
-      - layout: top-middle
-        title: Research and Development Manager
-        sub_title: Gostaresh Tejarat Golshan, Isfahan
-        caption: Sep. 2020 - May 2021
         quote:  Design and Develop a Water Desalination System based on Thermoelectric Modules
         quote: PLC Programming and Process Automation of Zero Liquid Discharge (ZLD) Project Ordered by the Marun Petrochemical Complex.
       
+        
       - layout: top-middle
         title:  Teaching Assistant
         sub_title: Isfahan University of Technology
         caption: Spring 2017 - Fall 2018
-        quote: Computer Networks (Spring 2017, Dr. Naghmeh S. Moayedian)
-        quote: Fundamentals of Computer Programming (Fall 2018, Dr. Behzad Nazari).
-        quote: Principles of Communication Systems (Fall 2018, Dr. Ehsan Yazdian).
-        quote: C/C++ Programming Lab Instructor (Fall 2018)
+        quote: Computer Networks_Spring 2017, Dr. Naghmeh S. Moayedian \n
+        Fundamentals of Computer Programming_Fall 2018, Dr. Behzad Nazari \n
+        Principles of Communication Systems_Fall 2018, Dr. Ehsan Yazdian \n
+        C/C++ Programming Lab Instructor(Fall 2018)
       
       - layout: top-middle
         title:   Mathematics Teacher
