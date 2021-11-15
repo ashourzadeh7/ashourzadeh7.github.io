@@ -60,8 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 #
 content:
-  - #icon: fab fa-graduation-cap
-    title: Education
+  - title: Education
     layout: list
     content:
       - layout: top-middle
@@ -177,14 +176,11 @@ content:
         title: Language 
         sub_title: English, Persian (Native), Arabic (Basic)
         
-- title: A Little More About Me
-    layout: text
+   - title: Section Name
+    layout: text (options: list, text)
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+     
 
   #- title: A Little More About Me
     #layout: text
