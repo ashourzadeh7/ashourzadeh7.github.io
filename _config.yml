@@ -173,7 +173,7 @@ content:
 
   - title: A Little More About Me
     layout: text
-    layout: top-middle
+    #layout: top-middle
     content: | 
         Alongside my interests in CS, some of my other interests and hobbies are:
         - Doing Gymnastics
