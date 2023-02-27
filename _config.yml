@@ -9,7 +9,7 @@ version: 2
 name: Mohammad Ashourzadeh
 title: CS Student
 email: ashourzadeh7@gmail.com
-phone: +989363927478
+phone: 00989363927478
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -17,7 +17,7 @@ phone: +989363927478
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
