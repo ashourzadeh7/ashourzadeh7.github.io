@@ -17,7 +17,7 @@ phone: 00989363927478
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -74,9 +74,9 @@ content:
         #  Description of qualification
           
       - layout: top-middle
-        title: Isfahan University of Technology (IUT), Isfahan
-        sub_title:  B.Sc. in Electrical Engineering - Communications
-        caption: Fall 2013 to 2018
+        title: University of Guilan (GU), Gilan
+        sub_title:  B.Sc. in Computer Science
+        caption: Fall 2015 to 2020
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
@@ -100,25 +100,25 @@ content:
         sub_title:  Isfahan University of Technology (IUT)
         caption: 2014
         
-  - title: Publications and Patents
-    layout: text
-    content: |
-      - K. Barati, “How Can a Game Make an Educational Situation,” Iranian Mathematics Education Conference, Feb. 18, 2018, Bushehr, Iran.
-      - F. Ahmadpour, Sh. Dastjerdi, K. Barati, “Modeling Problems, a Place for Citizenship Education,” Iranian Curriculum Studies Association Conference, 2018, Zanjan, Iran.
-      - K. Barati, S. Shahsavari “Game Assembling on a Network,” A Mathematics Article for the National Khwarizmi Youth Festival, 2012, Tehran, Iran.
-      - K. Barati, “Joft-o-Joor”, Persian Patent No. 95/0262409/3, Isuued May. 1, 2016.
+#  - title: Publications and Patents
+#    layout: text
+#    content: |
+#      - K. Barati, “How Can a Game Make an Educational Situation,” Iranian Mathematics Education Conference, Feb. 18, 2018, Bushehr, Iran.
+#      - F. Ahmadpour, Sh. Dastjerdi, K. Barati, “Modeling Problems, a Place for Citizenship Education,” Iranian Curriculum Studies Association Conference, 2018, Zanjan, Iran.
+#      - K. Barati, S. Shahsavari “Game Assembling on a Network,” A Mathematics Article for the National Khwarizmi Youth Festival, 2012, Tehran, Iran.
+#      - K. Barati, “Joft-o-Joor”, Persian Patent No. 95/0262409/3, Isuued May. 1, 2016.
         
               
-  - title: Professional Experiences # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Research and Development Manager
-        sub_title: Gostaresh Tejarat Golshan, Isfahan
-        caption: Sep. 2020 - May 2021
-        layout: text
-        description: |
-            - Data-driven Marketing
+#  - title: Professional Experiences # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Research and Development Manager
+#        sub_title: Gostaresh Tejarat Golshan, Isfahan
+#        caption: Sep. 2020 - May 2021
+#        layout: text
+#        description: |
+#            - Data-driven Marketing
             - R Programming
             - Research on the Hardening and Coating Process of Steel
 
