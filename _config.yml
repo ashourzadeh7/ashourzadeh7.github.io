@@ -100,31 +100,39 @@ content:
         sub_title:  Isfahan University of Technology (IUT)
         caption: 2014
         
-#  - title: Publications and Patents
-#    layout: text
-#    content: |
-#      - K. Barati, “How Can a Game Make an Educational Situation,” Iranian Mathematics Education Conference, Feb. 18, 2018, Bushehr, Iran.
-#      - F. Ahmadpour, Sh. Dastjerdi, K. Barati, “Modeling Problems, a Place for Citizenship Education,” Iranian Curriculum Studies Association Conference, 2018, Zanjan, Iran.
-#      - K. Barati, S. Shahsavari “Game Assembling on a Network,” A Mathematics Article for the National Khwarizmi Youth Festival, 2012, Tehran, Iran.
-#      - K. Barati, “Joft-o-Joor”, Persian Patent No. 95/0262409/3, Isuued May. 1, 2016.
+  - title: Courses
+    layout: text
+    content: |
+      - Artificial Neural Networks, Masters, (Score: 20)
+      - Machine Learning, Masters, (Score: 19.5)
+      - Advanced Artificial Intelligence, Mastersو (Score: 18.75)
+      - Natural Language Processing, Masters, (Score: 19.2)
+      - Expert Systems, Masters, (Score: 18.5)
+      - numerical analysis, Bachelor, (Score: 20)
+      - Data Mining, Bachelor, (Score: 19)
+      - Computational intelligence, Bachelor, (Score: 19.75)
+      - Algorithm design and analysis, Bachelor, (Score: 18.5)
+      - Principles of operating systems, Bachelor, (Score: 19.5)
+      - Matrix and linear algebra, Bachelor, (Score: 20)
+      - Linear optimization, Bachelor, (Score: 19.5)
         
               
-#  - title: Professional Experiences # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Research and Development Manager
-#        sub_title: Gostaresh Tejarat Golshan, Isfahan
-#        caption: Sep. 2020 - May 2021
-#        layout: text
-#        description: |
-#            - Data-driven Marketing
+  - title: Courses # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Undergraduate Courses
+        sub_title: Gostaresh Tejarat Golshan, Isfahan
+        caption: Sep. 2020 - May 2021
+        layout: text
+        description: |
+            - Data-driven Marketing
             - R Programming
             - Research on the Hardening and Coating Process of Steel
 
         
       - layout: top-middle
-        title: Electrical Engineer 
+        title: Master's Courses 
         sub_title: Moein Zist Aria Co., Isfahan
         caption: Jan. 2016 - Sep.2020
         layout: text
