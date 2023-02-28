@@ -121,16 +121,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Artificial Neural Network (ANN)
-        # sub_title: 
-        caption: Feb 2022
-        layout: text
-        description: |
-            - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
-            - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN
-
-        
-      - layout: top-middle
         title: Speech Recognition 
         # sub_title: 
         caption: Aug 2022
@@ -138,6 +128,16 @@ content:
         description: |
             - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
             - https://github.com/ashourzadeh7/Speech-Recognition
+            
+            
+       - layout: top-middle
+        title: Artificial Neural Network (ANN)
+        # sub_title: 
+        caption: Feb 2022
+        layout: text
+        description: |
+            - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
+            - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN     
       
         
 #      - layout: top-middle
@@ -173,7 +173,7 @@ content:
         
       - layout: top-middle
         title: Applications
-        sub_title: Machine Learning, MATLAB,VS Code, LaTeX, GIT, Qt, Adobe (Photoshop, Premiere), Microsoft Office
+        sub_title: Machine Learning, MATLAB, VS Code, LaTeX, GIT, Qt, Adobe (Photoshop, Premiere), Microsoft Office
         
       - layout: top-middle
         title: Language 
