@@ -66,7 +66,7 @@ content:
     content:
       - layout: top-middle
         title: Allameh Tabataba’i University (ATU), Tehran
-        sub_title:  M.Sc. in Computer Science
+        sub_title:  M.Sc. in Computer Science, GPA 18.46 (Rank 1)
         caption: Fall 2021 to Present
         #quote: >
         #  Short institution or course description (optional)
@@ -75,7 +75,7 @@ content:
           
       - layout: top-middle
         title: University of Guilan (GU), Gilan
-        sub_title:  B.Sc. in Computer Science
+        sub_title:  B.Sc. in Computer Science, GPA 16.78 (Rank 3)
         caption: Fall 2015 to 2020
         #quote: >
         #  Short institution or course description (optional)
