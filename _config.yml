@@ -82,23 +82,23 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification  
         
-  - title: Honors and Awards
-    #icon: fab fa-brophy
-    layout: list
-    content:
-      - layout: top-middle
-        title: 3rd Rank of National Khwarizmi Youth Award
-        sub_title: Mathematics, Game Theory
-        caption: Nov. 2012
-        
-      - layout: top-middle
-        title: Member of the National Elite Foundation of Iran
-        caption: Since 2013
-        
-      - layout: top-middle
-        title: Brilliant Talent Scholarship Award
-        sub_title:  Isfahan University of Technology (IUT)
-        caption: 2014
+#  - title: Honors and Awards
+#    #icon: fab fa-brophy
+#    layout: list
+#    content:
+#      - layout: top-middle
+#        title: 3rd Rank of National Khwarizmi Youth Award
+#        sub_title: Mathematics, Game Theory
+#        caption: Nov. 2012
+#        
+#      - layout: top-middle
+#        title: Member of the National Elite Foundation of Iran
+#        caption: Since 2013
+#        
+#      - layout: top-middle
+#        title: Brilliant Talent Scholarship Award
+#        sub_title:  Isfahan University of Technology (IUT)
+#        caption: 2014
         
   - title: Courses
     layout: text
@@ -117,52 +117,51 @@ content:
       - Linear optimization, Bachelor, (Score: 19.5)
         
               
-  - title: Courses # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Undergraduate Courses
-        sub_title: Gostaresh Tejarat Golshan, Isfahan
-        caption: Sep. 2020 - May 2021
+        title: Artificial Neural Network (ANN)
+        # sub_title: 
+        caption: Feb 2022
         layout: text
         description: |
-            - Data-driven Marketing
-            - R Programming
-            - Research on the Hardening and Coating Process of Steel
+            - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
+            - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN
 
         
       - layout: top-middle
-        title: Master's Courses 
-        sub_title: Moein Zist Aria Co., Isfahan
-        caption: Jan. 2016 - Sep.2020
+        title: Speech Recognition 
+        # sub_title: 
+        caption: Aug 2022
         layout: text
         description: |
-            - Design and Develop a Water Desalination System based on Thermoelectric Modules
-            - PLC Programming and Process Automation of Zero Liquid Discharge (ZLD) Project Ordered by the Marun Petrochemical Complex.
+            - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
+            - https://github.com/ashourzadeh7/Speech-Recognition
       
         
-      - layout: top-middle
-        title:  Teaching Assistant
-        sub_title: Isfahan University of Technology
-        caption: Spring 2017 - Fall 2018
-        layout: text
-        description: |
-            - Computer Networks_Spring 2017, Dr. Naghmeh S. Moayedian        
-            - Fundamentals of Computer Programming_Fall 2018, Dr. Behzad Nazari 
-            - Principles of Communication Systems_Fall 2018, Dr. Ehsan Yazdian 
-            - C/C++ Programming Lab Instructor(Fall 2018)
-      
-      - layout: top-middle
-        title:   Mathematics Teacher
-        sub_title: Isfahan Mathematics House
-        caption: Sep. 2013 - Present
-        layout: text
-        description: |
-            - Tutoring Mathematics Workshops for Students and Teachers (Under the Supervision of Dr. Ali Rejali)
-            - Mentor of Design Thinking Workshops Based on Stanford Method and POLY UP Workshops (under the Supervision of Dr. Yahya Tabesh)
-            - Jury Member of Iran Mathematics A-Lympiad (Fall 2014 - 2020)
-            - Paper Reviewer of Iran MathematicsTournament of Towns (Fall 2013 - 2020)
-            - Scientific Consultant of Training Camp for Selected Students of the Iran Mathematics Tournament of Towns (Fall 2015 - 2018).
+#      - layout: top-middle
+#        title:  Teaching Assistant
+#        sub_title: Isfahan University of Technology
+#        caption: Spring 2017 - Fall 2018
+#        layout: text
+#        description: |
+#            - Computer Networks_Spring 2017, Dr. Naghmeh S. Moayedian        
+#            - Fundamentals of Computer Programming_Fall 2018, Dr. Behzad Nazari 
+#            - Principles of Communication Systems_Fall 2018, Dr. Ehsan Yazdian 
+#            - C/C++ Programming Lab Instructor(Fall 2018)
+#      
+#      - layout: top-middle
+#        title:   Mathematics Teacher
+#        sub_title: Isfahan Mathematics House
+#        caption: Sep. 2013 - Present
+#        layout: text
+#        description: |
+#            - Tutoring Mathematics Workshops for Students and Teachers (Under the Supervision of Dr. Ali Rejali)
+#            - Mentor of Design Thinking Workshops Based on Stanford Method and POLY UP Workshops (under the Supervision of Dr. Yahya Tabesh)
+#            - Jury Member of Iran Mathematics A-Lympiad (Fall 2014 - 2020)
+#            - Paper Reviewer of Iran MathematicsTournament of Towns (Fall 2013 - 2020)
+#            - Scientific Consultant of Training Camp for Selected Students of the Iran Mathematics Tournament of Towns (Fall 2015 - 2018).
 
    
   - title: Skills
@@ -170,11 +169,11 @@ content:
     content:
       - layout: top-middle
         title: Programing
-        sub_title: C/C++, Python, R, Verilog/VHDL, SQL
+        sub_title: MATLAB, Python, C/C++, Java, SQL
         
       - layout: top-middle
         title: Applications
-        sub_title: Machine Learning, Qt, MATLAB, LaTeX, GIT, SIMATIC, Adobe (Photoshop, Premiere)
+        sub_title: Machine Learning, MATLAB,VS Code, LaTeX, GIT, Qt, Adobe (Photoshop, Premiere), Microsoft Office
         
       - layout: top-middle
         title: Language 
@@ -185,10 +184,10 @@ content:
     #layout: top-middle
     content: | 
         Alongside my interests in CS, some of my other interests and hobbies are:
-        - Doing Gymnastics
-        - Playing Setar
-        - Running
         - Reading Books
+        - Running
+        - Football
+        - Gym
         
         
 # Footer
