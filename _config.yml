@@ -141,6 +141,14 @@ content:
             - Backpropagation training algorithm for multilayer perceptron neural (MLP) network for training
             - [https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN](https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN)
 
+      - layout: top-middle
+        title: Expert System
+        # sub_title: 
+        caption: Feb 2022
+        layout: text
+        description: |
+            - Designing an expert system for diagnosing the disease of Covid-19 in Clips
+            - [https://github.com/ashourzadeh7/Expert-System](https://github.com/ashourzadeh7/Expert-System)
         
 #      - layout: top-middle
 #        title:  Teaching Assistant
