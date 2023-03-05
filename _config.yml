@@ -17,7 +17,7 @@ phone: 00989363927478
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
@@ -27,7 +27,7 @@ github_username:  ashourzadeh7
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: ashourzadeh7
-# linkedin_username: linkedin ID
+linkedin_username: ashourzadeh7
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
