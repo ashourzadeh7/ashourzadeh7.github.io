@@ -127,7 +127,7 @@ content:
         layout: text
         description: |
             - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
-            - https://github.com/ashourzadeh7/Speech-Recognition
+            - [https://github.com/ashourzadeh7/Speech-Recognition](https://github.com/ashourzadeh7/Speech-Recognition)
         
       - layout: top-middle
         title: Artificial Neural Network (ANN)
@@ -136,7 +136,7 @@ content:
         layout: text
         description: |
             - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
-            - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN
+            - [https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN](https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN)
       
         
 #      - layout: top-middle
