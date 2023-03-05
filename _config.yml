@@ -127,7 +127,18 @@ content:
         layout: text
         description: |
             - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
+            - Objective: Identifying and classifying Persian numbers from 0 to 9
+            - Training 10 hidden Markov models for numbers 0 to 9 using Baum-Welch algorithm
             - [https://github.com/ashourzadeh7/Speech-Recognition](https://github.com/ashourzadeh7/Speech-Recognition)
+            
+      - layout: top-middle
+        title: Hack by Rainbow
+        # sub_title: 
+        caption: May 2022
+        layout: text
+        description: |
+            - Hacking the 4-digit PIN code using the SHA256 hash function in Python
+            - [https://github.com/ashourzadeh7/Hach-by-Rainbow](https://github.com/ashourzadeh7/Hach-by-Rainbow)
         
       - layout: top-middle
         title: Artificial Neural Network (ANN)
@@ -136,7 +147,17 @@ content:
         layout: text
         description: |
             - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
+            - Backpropagation training algorithm for multilayer perceptron neural (MLP) network for training
             - [https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN](https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN)
+            
+       - layout: top-middle
+        title: Expert System
+        # sub_title: 
+        caption: Feb 2022
+        layout: text
+        description: |
+            - Designing an expert system for diagnosing the disease of Covid-19 in Clips
+            - [https://github.com/ashourzadeh7/Expert-System](https://github.com/ashourzadeh7/Expert-System)
       
         
 #      - layout: top-middle
