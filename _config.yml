@@ -53,8 +53,7 @@ instagram_username: ashourzadeh7
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | 
-    - I am a student of artificial intelligence and interested in topics such as machine learning and natural language processing. 
-    - I am a precise, goal-oriented and cooperative person; I also work with programming languages such as MATLAB and Python.
+    - I am a student of artificial intelligence and I am currently studying at Allameh Tabatabai University in Tehran. I am a disciplined, goal-oriented and collaborative person who is interested in topics such as machine learning, natural language processing and intelligent systems. I also work with programming languages such as MATLAB and Python and have completed many projects during my studies. I am currently working on my senior thesis, which is related to time series forecasting using transforms.
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
 #    - Tables
