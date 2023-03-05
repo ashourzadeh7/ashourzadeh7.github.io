@@ -117,9 +117,18 @@ content:
       - Linear optimization, Bachelor, (Score: 19.5)
         
               
-  - title: Projects # Title for the section
+  - title: Selected Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Speech Recognition
+        # sub_title: 
+        caption: Aug 2022
+        layout: text
+        description: |
+            - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
+            - https://github.com/ashourzadeh7/Speech-Recognition
+        
       - layout: top-middle
         title: Artificial Neural Network (ANN)
         # sub_title: 
@@ -128,15 +137,6 @@ content:
         description: |
             - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
             - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN
-        
-      - layout: top-middle
-        title: Speech Recognition 
-        # sub_title: 
-        caption: Aug 2022
-        layout: text
-        description: |
-            - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
-            - https://github.com/ashourzadeh7/Speech-Recognition
       
         
 #      - layout: top-middle
@@ -184,6 +184,7 @@ content:
     content: | 
         Alongside my interests in CS, some of my other interests and hobbies are:
         - Reading Books
+        - Playing Chess
         - Running
         - Football
         - Gym
