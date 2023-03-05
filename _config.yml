@@ -9,7 +9,7 @@ version: 2
 name: Mohammad Ashourzadeh
 title: CS Student
 email: ashourzadeh7@gmail.com
-phone: (0098)9363927478
+phone: 00989363927478
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -17,7 +17,7 @@ phone: (0098)9363927478
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -27,7 +27,7 @@ github_username:  ashourzadeh7
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: ashourzadeh7
-linkedin_username: ashourzadeh7
+# linkedin_username: linkedin ID
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,8 +52,7 @@ linkedin_username: ashourzadeh7
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | I am a student of artificial intelligence and interested in topics such as machine learning and natural language processing. I am a precise, goal-oriented and cooperative person; I also work with programming languages such as MATLAB and Python.
-
+about_content: | # this will include new lines to allow paragraphs
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
 #    - Tables
@@ -121,6 +120,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Artificial Neural Network (ANN)
+        # sub_title: 
+        caption: Feb 2022
+        layout: text
+        description: |
+            - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
+            - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN
+        
+      - layout: top-middle
         title: Speech Recognition 
         # sub_title: 
         caption: Aug 2022
@@ -128,16 +136,6 @@ content:
         description: |
             - Implementation of Hidden Markov Model (HMM) to detect separate speech in MATLAB
             - https://github.com/ashourzadeh7/Speech-Recognition
-            
-            
-       - layout: top-middle
-        title: Artificial Neural Network (ANN)
-        # sub_title: 
-        caption: Feb 2022
-        layout: text
-        description: |
-            - An Artificial Neural Network with a hidden layer for Iris flower data classification in MATLAB
-            - https://github.com/ashourzadeh7/Artificial-Neural-Network-ANN     
       
         
 #      - layout: top-middle
@@ -173,7 +171,7 @@ content:
         
       - layout: top-middle
         title: Applications
-        sub_title: Machine Learning, MATLAB, VS Code, LaTeX, GIT, Qt, Adobe (Photoshop, Premiere), Microsoft Office
+        sub_title: Machine Learning, MATLAB,VS Code, LaTeX, GIT, Qt, Adobe (Photoshop, Premiere), Microsoft Office
         
       - layout: top-middle
         title: Language 
@@ -185,7 +183,6 @@ content:
     content: | 
         Alongside my interests in CS, some of my other interests and hobbies are:
         - Reading Books
-        - Playing Chess
         - Running
         - Football
         - Gym
