@@ -130,7 +130,16 @@ content:
             - Objective: Identifying and classifying Persian numbers from 0 to 9
             - Training 10 hidden Markov models for numbers 0 to 9 using Baum-Welch algorithm
             - [https://github.com/ashourzadeh7/Speech-Recognition](https://github.com/ashourzadeh7/Speech-Recognition)
-        
+
+      - layout: top-middle
+        title: Hack by Rainbow
+        # sub_title: 
+        caption: May 2022
+        layout: text
+        description: |
+            - Hacking the 4-digit PIN code using the SHA256 hash function in Python
+            - [https://github.com/ashourzadeh7/Hach-by-Rainbow](https://github.com/ashourzadeh7/Hach-by-Rainbow)
+
       - layout: top-middle
         title: Artificial Neural Network (ANN)
         # sub_title: 
@@ -149,7 +158,7 @@ content:
         description: |
             - Designing an expert system for diagnosing the disease of Covid-19 in Clips
             - [https://github.com/ashourzadeh7/Expert-System](https://github.com/ashourzadeh7/Expert-System)
-        
+
 #      - layout: top-middle
 #        title:  Teaching Assistant
 #        sub_title: Isfahan University of Technology
