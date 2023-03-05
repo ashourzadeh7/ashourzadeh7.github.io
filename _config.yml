@@ -52,7 +52,7 @@ linkedin_username: ashourzadeh7
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | I am a student of artificial intelligence and interested in topics such as machine learning and natural language processing. I am a precise, goal-oriented and cooperative person; I also work with programming languages such as MATLAB and Python.
 
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
