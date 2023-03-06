@@ -120,7 +120,7 @@ content:
   - title: Publications
     layout: text
     content: |
-      - Forecasting time series using Temporal Fusion Transformer (TFT) - (In progress)
+      - Forecasting time series using Temporal Fusion Transformers (TFT) - (In progress)
         
               
   - title: Selected Projects # Title for the section
