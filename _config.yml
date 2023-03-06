@@ -116,6 +116,12 @@ content:
       - Matrix and linear algebra, Bachelor, (Score: 20)
       - Linear optimization, Bachelor, (Score: 19.5)
         
+        
+  - title: Publications
+    layout: text
+    content: |
+      - Forecasting time series using Temporal Fusion Transformer (TFT) - (In progress)
+        
               
   - title: Selected Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -160,7 +166,7 @@ content:
             - [https://github.com/ashourzadeh7/Expert-System](https://github.com/ashourzadeh7/Expert-System)
 
       - layout: top-middle
-        title: Ant colony optimization algorithm
+        title: Ant Colony Optimization Algorithm
         # sub_title: 
         caption: Jul 2020
         layout: text
