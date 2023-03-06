@@ -159,6 +159,17 @@ content:
             - Designing an expert system for diagnosing the disease of Covid-19 in Clips
             - [https://github.com/ashourzadeh7/Expert-System](https://github.com/ashourzadeh7/Expert-System)
 
+      - layout: top-middle
+        title: Ant colony optimization algorithm
+        # sub_title: 
+        caption: Jul 2020
+        layout: text
+        description: |
+            - Implementation of ant colony algorithm in MATLAB
+            - A subset of Swarm Intelligence methods
+            - A meta-heuristic method for solving combinatorial optimization problems
+            - [https://github.com/ashourzadeh7/Ant-Colony-Optimization-Algorithm](https://github.com/ashourzadeh7/Ant-Colony-Optimization-Algorithm)
+
 #      - layout: top-middle
 #        title:  Teaching Assistant
 #        sub_title: Isfahan University of Technology
