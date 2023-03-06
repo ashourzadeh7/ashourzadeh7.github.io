@@ -169,6 +169,15 @@ content:
             - A subset of Swarm Intelligence methods
             - A meta-heuristic method for solving combinatorial optimization problems
             - [https://github.com/ashourzadeh7/Ant-Colony-Optimization-Algorithm](https://github.com/ashourzadeh7/Ant-Colony-Optimization-Algorithm)
+            
+      - layout: top-middle
+        title: Computer Simulation
+        # sub_title: 
+        caption: Jan 2020
+        layout: text
+        description: |
+            - Simulation of a call center in Excel
+            - [https://github.com/ashourzadeh7/Computer-Simulation](https://github.com/ashourzadeh7/Computer-Simulation)
 
 #      - layout: top-middle
 #        title:  Teaching Assistant
